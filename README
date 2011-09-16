@@ -1,4 +1,5 @@
 Usage:
+cd src
 make
 make install
 ilbc-decode [frame size] -decode [encoded file] [output file]
