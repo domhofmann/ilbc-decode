@@ -1,0 +1,6 @@
+Usage:
+ilbc-decode [frame size] -decode [encoded file] [output file]
+e.g. ilbc-decode 20 -decode testfile.ilbc output.raw
+
+Based on sources from this thread:
+http://talk.maemo.org/showthread.php?t=25099
