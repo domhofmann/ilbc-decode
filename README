@@ -1,4 +1,6 @@
 Usage:
+make
+make install
 ilbc-decode [frame size] -decode [encoded file] [output file]
 e.g. ilbc-decode 20 -decode testfile.ilbc output.raw
 
